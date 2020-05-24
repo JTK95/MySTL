@@ -1,0 +1,9 @@
+﻿  main.cpp
+C:\Users\user\source\repos\프로카데미(과제)\2020-05-06-학원과제(2)\STL\STL\STL\mySTL.h(140,6): error C2365: 'CList<T>::size': 재정의: 이전 정의는 '멤버 함수'입니다.
+C:\Users\user\source\repos\프로카데미(과제)\2020-05-06-학원과제(2)\STL\STL\STL\mySTL.h(122): message : 'CList<T>::size' 선언을 참조하십시오.
+C:\Users\user\source\repos\프로카데미(과제)\2020-05-06-학원과제(2)\STL\STL\STL\mySTL.h(143): message : 컴파일되는 클래스 템플릿 인스턴스화 'CList<T>'에 대한 참조를 확인하세요.
+C:\Users\user\source\repos\프로카데미(과제)\2020-05-06-학원과제(2)\STL\STL\STL\mySTL.h(140,6): error C2365: 'CList<int>::size': 재정의: 이전 정의는 '멤버 함수'입니다.
+C:\Users\user\source\repos\프로카데미(과제)\2020-05-06-학원과제(2)\STL\STL\STL\mySTL.h(122): message : 'CList<int>::size' 선언을 참조하십시오.
+C:\Users\user\source\repos\프로카데미(과제)\2020-05-06-학원과제(2)\STL\STL\STL\main.cpp(6): message : 컴파일되는 클래스 템플릿 인스턴스화 'CList<int>'에 대한 참조를 확인하세요.
+  stdafx.cpp
+  코드를 생성하고 있습니다...
